@@ -1,0 +1,21 @@
+{
+    "0": {
+        "label": "About Me",
+        "URL": "about"
+    },
+    "1": {
+        "label": "My Blog",
+        "URL": "blog"
+
+    },
+    "2": {
+        "label": "My Work",
+        "URL": "work"
+
+    },
+    "3": {
+        "label": "Resume",
+        "URL": "resume"
+
+    }
+}
